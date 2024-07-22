@@ -8,11 +8,11 @@ const responses = {
     "what is ai": "AI stands for Artificial Intelligence, which is the simulation of human intelligence in machines.",
     "bye": "Goodbye! Have a great day!",
     // Mobile Legends related questions
-    "how to counter tank?": "To counter tank heroes, build items like 'Demon Hunter Sword' and 'Malefic Roar'. These items help deal with high HP and defense.",
-    "how to counter marksman?": "To counter marksman heroes, build items like 'Blade Armor' and 'Dominance Ice'. These items reduce their attack speed and reflect damage.",
-    "how to counter mage?": "To counter mage heroes, build items like 'Athena's Shield' and 'Radiant Armor'. These items provide magic resistance and reduce burst damage.",
-    "how to counter assassin?": "To counter assassin heroes, build items like 'Immortality' and 'Antique Cuirass'. These items provide survivability and reduce physical damage.",
-    "how to counter fighter?": "To counter fighter heroes, build items like 'Blade of Heptaseas' and 'Sea Halberd'. These items reduce their healing and increase your burst damage.", 
+    "how to counter tank heroes?": "To counter tank heroes, build items like 'Demon Hunter Sword' and 'Malefic Roar'. These items help deal with high HP and defense.",
+    "how to counter marksman heroes?": "To counter marksman heroes, build items like 'Blade Armor' and 'Dominance Ice'. These items reduce their attack speed and reflect damage.",
+    "how to counter mage heroes?": "To counter mage heroes, build items like 'Athena's Shield' and 'Radiant Armor'. These items provide magic resistance and reduce burst damage.",
+    "how to counter assassin heroes?": "To counter assassin heroes, build items like 'Immortality' and 'Antique Cuirass'. These items provide survivability and reduce physical damage.",
+    "how to counter fighter heroes?": "To counter fighter heroes, build items like 'Blade of Heptaseas' and 'Sea Halberd'. These items reduce their healing and increase your burst damage.", 
     //Counter Heroes for each Role
     "counter heroes for assassins?": "To counter Assassins, use heroes like Eudora or Saber because of the Crowd Control and Burst Capability of the skillset they have.",
     "counter heroes for tank?": "To counter Tanks, use heroes like Lunox or Karrie because of their burst capability and massive damage to one target.",
