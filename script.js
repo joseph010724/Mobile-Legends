@@ -15,7 +15,10 @@ const responses = {
     "how to counter fighter?": "To counter fighter heroes, build items like 'Blade of Heptaseas' and 'Sea Halberd'. These items reduce their healing and increase your burst damage.", 
     //Counter Heroes for each Role
     "counter heroes for assassins?": "To counter Assassins, use heroes like Eudora or Saber because of the Crowd Control and Burst Capability of the skillset they have.",
-    "counter heroes for tank?": "To counter Tanks, use heroes like Lunox or Karrie because of their burst capability and massive damage to one target."
+    "counter heroes for tank?": "To counter Tanks, use heroes like Lunox or Karrie because of their burst capability and massive damage to one target.",
+    "counter heroes for mage?": "To counter Mage heroes, use heroes like Lancelot or Ling because of their ability to chase down enemy easily.",
+    "counter heroes for marksman?": "To counter Marksmans, use heroes like Lolita or Tigreal because of their skillsets and  can easily setup a set for your ally marksman.",
+    "counter heroes for fighters?": "To counter Fighters, use heroes like Yu Zhong or Dyrotth because of their sustainability and early high damage because of their skills and passoives."
 };
 userInput.addEventListener('keydown', function(event) {
     if (event.key === 'Enter') {
